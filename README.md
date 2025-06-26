@@ -6,11 +6,6 @@ Collection of wallpapers and artistic images with a western and comic-style them
 
 ## 🎨 Gallery
 
-### Characters
-| Jeremías Lince | Lady Fortune | Madame Zora |
-| :---: | :---: | :---: |
-| ![Jeremías Lince](./characters/jeremias_lince.png) | ![Lady Fortune](./characters/lady_fortune.png) | ![Madame Zora](./characters/madame_zora.png) |
-
 ### Artistic Compositions
 | Comic Style | Artistic Creation |
 | :---: | :---: |
