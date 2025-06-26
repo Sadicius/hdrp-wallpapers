@@ -17,8 +17,4 @@ Collection of wallpapers and artistic images with a western and comic-style them
 | :---: | :---: | :---: | :---: |
 | ![Bandits](./drawings-small/bandits.png) | ![Hunter Joe](./drawings-small/hunter_joe.png) | ![Sheriff](./drawings-small/sheriff.png) | ![Smiles Jack](./drawings-small/smiles_jack.png) |
 
-
-### Check Out Our Tebex Store
-Looking for more scripts to enhance your RedM experience? Visit our Tebex store to explore our full collection of scripts!
-
 ### 🔗 [Visit Our Tebex Store](https://cazadores-de-dados-rp.tebex.io/)
